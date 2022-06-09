@@ -24,6 +24,12 @@ I am a Junior Data Scientist and software engineer. I enjoy anything that involv
       </a>
       This repository demonstrates my knowledge in Natural Language Processing by building Deep Learning models. It also indicates my ability to keep up with new architecture in the tech world in the use of Huggingface Transformers    
     </li>
+    <li>
+      <a href="https://github.com/Kevin-Nduati/Market-Analysis-using-Clustering">Market Analysis using Clustering - </a>
+      This repository demonstrates my knowledge in Dimensionality Reduction and Clustering techniques. 
+
+    </li>
+    This repository demonstrates my knowledge in Dimensionality Reduction and Clustering techniques. 
   </ul>
   
 
