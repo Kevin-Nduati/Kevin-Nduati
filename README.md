@@ -36,6 +36,9 @@ I am a Junior Data Scientist and software engineer. I dream it, I build it!!
 
 
 ## Github Stats
+[![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=Kevin-Nduati)](https://github.com/Kevin-Nduati)<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/Kevin-Nduati?&logo=github)](https://github.com/Kevin-Nduati?tab=followers)<br>
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br>
 [![Kevin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br>
