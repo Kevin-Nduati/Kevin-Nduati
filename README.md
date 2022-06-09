@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 <p>
-I am a Junior Data Scientist and software engineer. I enjoy anything that involves coding and open to learning new languages
+I am a Junior Data Scientist and software engineer. I dream it, I build it!!
 </p>
 
 ## Connect with me on 
