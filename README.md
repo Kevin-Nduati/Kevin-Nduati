@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2N7DiuuKF9NQ18hMccKk9YZhvdGS1T-Qhng&usqp=CAU">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2N7DiuuKF9NQ18hMccKk9YZhvdGS1T-Qhng&usqp=CAU.gif">
 
 ### Hi there 👋
 I am a Ju
