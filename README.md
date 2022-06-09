@@ -22,8 +22,7 @@ I am a Junior Data Scientist and software engineer. I enjoy anything that involv
       <a href="https://github.com/Kevin-Nduati/Sarcasm-Detection">
         Sarcasm Detection -
       </a>
-      This repository demonstrates my knowledge in Natural Language Processing by building Deep Learning models. It also indicates my ability to keep up with new architecture in the tech world in the use of Huggingface Transformers
-      
+      This repository demonstrates my knowledge in Natural Language Processing by building Deep Learning models. It also indicates my ability to keep up with new architecture in the tech world in the use of Huggingface Transformers    
     </li>
   </ul>
   
