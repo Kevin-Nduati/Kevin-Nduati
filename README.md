@@ -8,10 +8,10 @@ I am a Junior Data Scientist and software engineer. I enjoy anything that involv
 ## Connect with me on 
 <p align="left">
   <a href="https://twitter.com/_its_kamau">
-<img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" />Twitter  </a>
+<img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" />  </a>
 <br>
   <a href="https://linkedin.com/in/kevin-kamau-68952b213/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" alt="LinkedIn"> Linkedin
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" alt="LinkedIn"> 
   </a>
 </p>
 
