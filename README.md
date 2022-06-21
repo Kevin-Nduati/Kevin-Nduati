@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 <p>
-I am a Junior Data Scientist and software engineer. I dream it, I build it!!
+I am a Junior Data Scientist and Software Developer. I dream it, I build it!!
 </p>
 
 ## Connect with me on 
