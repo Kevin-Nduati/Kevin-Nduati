@@ -28,6 +28,10 @@ I am a Junior Data Scientist and Software Developer. I dream it, I build it!!
     <li>
       <a href="https://github.com/Kevin-Nduati/Market-Analysis-using-Clustering">Market Analysis using Clustering - </a>
       This repository demonstrates my knowledge in Dimensionality Reduction and Clustering techniques. 
+    </li>
+    <a href="https://github.com/Kevin-Nduati/Bank-Customer-Churn-Modelling">Bank Customer 
+    Churn Analysis - </a>
+    This repository demonstrates my knowledge in dealing with imbalanced datasets. I employed a combination of techniques to deal with the imbalanced dataset. Some of these techniques include:  Random Oversampling, Random Undersampling, SMOTE, SMOTE Nearmiss, SMOTE Tomek Links. I then compared the different techniques and applied a machine learning model for comparison.
 
   </ul>
   
