@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/af/2d/fc/af2dfc088d58188b3d508eeb367b1c2e.gif">
+<img src="https://i.pinimg.com/originals/af/2d/fc/af2dfc088d58188b3d508eeb367b1c2e.gif"
+height="70px" width="70px">
 
 ### Hi there 👋
 <p>
