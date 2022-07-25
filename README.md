@@ -5,6 +5,8 @@ height="150px" width="150px">
 <p>
 I am a Junior Data Scientist and Software Developer. I dream it, I build it!!
 </p>
+<p>Vist my <a src="https://kevin-nduati.github.io/">Portfolio Website</a></p>
+
 
 ## Connect with me on 
 <p align="left">
