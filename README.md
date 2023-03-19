@@ -3,7 +3,7 @@ height="150px" width="150px">
 
 ### Hi there 👋
 <p>
-I write code and make terrible jokes!!
+I write code sometimes!!
 </p>
 <p>Visit my <a href="https://kevin-nduati.github.io/">Portfolio Website</a></p>
 
