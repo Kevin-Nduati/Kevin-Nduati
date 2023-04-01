@@ -1,15 +1,15 @@
 <img src="https://i.pinimg.com/originals/af/2d/fc/af2dfc088d58188b3d508eeb367b1c2e.gif"
 height="150px" width="150px">
 
-### Hi there 👋
 <p>
-I write code sometimes!!
+I'm Kevin, a Data Engineer && Data Scientist.
 </p>
+
 ## Connect with me
 <div align="left">
-<a href="https://www.linkedin.com/in/mori-wesonga-150505219" target="_blank">
+<a href="https://www.linkedin.com/in/kevin-nduati/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<a href="https://twitter.com/moridev" target="_blank">
+<a href="https://twitter.com/_its_kamau" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
 </a>
@@ -54,15 +54,6 @@ I write code sometimes!!
 </div>
 
 
-<!-- Cloud Tools Section -->
-<h2>Cloud Tools</h2>
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="images/aws.png" style="width:15%; max-height:150px; margin:5px;">
-  <img src="images/azure.png" style="width:15%; max-height:150px; margin:5px;">
-
-
-</div>
-
 
 ## Github Stats
 [![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=Kevin-Nduati)](https://github.com/Kevin-Nduati)<br>
@@ -71,6 +62,6 @@ I write code sometimes!!
 
 [![wakatime](https://wakatime.com/badge/user/93463914-b0e7-4523-b8d6-1d38df8cedd1.svg)](https://wakatime.com/@93463914-b0e7-4523-b8d6-1d38df8cedd1)<br>
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br>
+<!-- [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br> -->
 <!-- [![Kevin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br> -->
 [![Kevin's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-streak-stats)
