@@ -5,8 +5,17 @@ height="150px" width="150px">
 <p>
 I write code sometimes!!
 </p>
-<p>Visit my <a href="https://kevin-nduati.github.io/">Portfolio Website</a></p>
+## Connect with me
+<div align="left">
+<a href="https://www.linkedin.com/in/mori-wesonga-150505219" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://twitter.com/moridev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
+</a>
+
+ 
+</div>  
 <!-- Languages Section -->
 <h2>Languages</h2>
 <div style="display: flex; flex-wrap: wrap;">
