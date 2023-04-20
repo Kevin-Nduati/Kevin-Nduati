@@ -5,6 +5,9 @@ height="150px" width="150px">
 I'm Kevin, a Data Engineer && Data Scientist.
 </p>
 
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br>
+
+
 ## Connect with me
 <div align="left">
 <a href="https://www.linkedin.com/in/kevin-nduati/" target="_blank">
@@ -61,6 +64,5 @@ I'm Kevin, a Data Engineer && Data Scientist.
 
 [![wakatime](https://wakatime.com/badge/user/93463914-b0e7-4523-b8d6-1d38df8cedd1.svg)](https://wakatime.com/@93463914-b0e7-4523-b8d6-1d38df8cedd1)<br>
 
-<!-- [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br> -->
 <!-- [![Kevin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br> -->
 [![Kevin's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-streak-stats)
