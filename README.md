@@ -2,7 +2,7 @@
 height="150px" width="150px">
 
 <p>
-I'm Kevin, a Data Engineer && Data Scientist.
+I'm Kevin, a Data Scientist.
 </p>
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Nduati&theme=blue-green)](https://github.com/Kevin-Nduati/github-readme-stats)<br>
